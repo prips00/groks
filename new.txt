@@ -1,1 +1,2 @@
 echo "Hello class of DevOps";
+this is new file
